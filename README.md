@@ -10,6 +10,6 @@ Related to PDF file format, it's internal structure and tools available for pars
 6. ...
 
 ## Tools
-1. (PdfView - Peeking into the Internals of PDFs)[!https://www.codeproject.com/Articles/11755/PdfView-Peeking-into-the-Internals-of-PDFs] - View the structure of PDF
-2. (xpdf)[!https://www.xpdfreader.com/] - Extracting text etc..
-3. (pdf2xml)[!https://github.com/kermitt2/pdf2xml] - Extracting structure etc..
+1. [PdfView - Peeking into the Internals of PDFs](https://www.codeproject.com/Articles/11755/PdfView-Peeking-into-the-Internals-of-PDFs) - View the structure of PDF
+2. [xpdf](https://www.xpdfreader.com/) - Extracting text etc..
+3. [pdf2xml](https://github.com/kermitt2/pdf2xml) - Extracting structure etc..
