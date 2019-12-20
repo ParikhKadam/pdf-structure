@@ -7,7 +7,7 @@ Related to PDF file format, it's internal structure and tools available for pars
 3. https://planetpdf.com/navigating-the-internal-structure-of-a-pdf-document/
 4. https://blog.idrsolutions.com/2013/01/understanding-the-pdf-file-format-overview/
 5. https://web.archive.org/web/20141010035745/http://gnupdf.org/Introduction_to_PDF
-6. ...
+6. https://www.w3.org/WAI/WCAG20/Techniques/ua-notes/pdf
 
 ## Tools
 1. [PdfView - Peeking into the Internals of PDFs](https://www.codeproject.com/Articles/11755/PdfView-Peeking-into-the-Internals-of-PDFs) - View the structure of PDF
